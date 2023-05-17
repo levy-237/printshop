@@ -10,9 +10,9 @@ function App() {
     <div>
       <Header />
       <Routes>
-        <Route exact path="/" Component={Welcome} />
-        <Route path="/printshop" Component={Photos} />
-        <Route path="/cart" Component={Cart} />
+        <Route exact path="/" Component={</Welcome>} />
+        <Route path="/printshop" Component={</Photos>} />
+        <Route path="/cart" Component={</Cart>} />
       </Routes>
     </div>
   );
